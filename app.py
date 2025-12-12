@@ -1,10 +1,10 @@
 # app.py
 # Streamlit — Multi Dashboard Kas Masuk & Kas Keluar (CashFlowVision / MoneyBoard)
 # Features:
-# - Dashboard utama (metrics, charts)
+# - Ringkasan Keuangan (metrics, charts)
 # - Input transaksi (simpan ke ./data/transactions.csv)
-# - Tabel transaksi (lihat / hapus)
-# - Import / Export Excel & CSV
+# - Semua transaksi (lihat / hapus)
+# - Import & Export Data Excel & CSV
 # - "AI" analysis: automated textual insights & recommendations (rule-based)
 #
 # Requirements: see requirements.txt
